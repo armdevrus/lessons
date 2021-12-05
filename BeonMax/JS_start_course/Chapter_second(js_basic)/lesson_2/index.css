@@ -1,0 +1,21 @@
+.block{
+   height: 100px;
+   width: 100px;
+   background-color: green;
+   border-radius: 10px;
+   border: black 5px solid
+}
+
+.red{
+   background-color: black;
+   height: 50px;
+   
+}
+@media (max-width: 768px){
+   .red{
+      background-color: blueviolet;
+   }
+}
+.image_nature{
+
+}

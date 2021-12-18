@@ -3,4 +3,4 @@ let someArrTwo = [];
 for (let i = 0, i < someArr.length, i++) {
     // someArr.push(someArr.every)
     console.log(someArr.every)
-} 
+};
